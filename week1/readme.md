@@ -1,3 +1,3 @@
-#Birinci Haftanın Ödevi
+# 1.Haftanın Ödevi
 
 Abstract ile ilgili örnek yapımı.
